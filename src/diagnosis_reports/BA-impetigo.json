@@ -1,0 +1,15 @@
+{
+  "Disease": "Bacterial Infections - Impetigo",
+  "Summary": [
+      "A contagious bacterial skin infection often affecting children.",
+      "Caused by Staphylococcus or Streptococcus bacteria.",
+      "Symptoms include red sores or blisters that may ooze and form a yellowish crust.",
+      "Treatment involves antibiotics, both topical and oral."
+  ],
+  "Duration": "1-2 weeks with proper treatment.",
+  "Symptoms": [
+      "Red sores",
+      "Blisters",
+      "Yellowish crust"
+  ]
+}

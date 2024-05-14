@@ -1,0 +1,15 @@
+{
+  "Disease": "Viral Skin Infections - Shingles",
+  "Summary": [
+      "A viral infection caused by the reactivation of the varicella-zoster virus, which also causes chickenpox.",
+      "Characterized by a painful rash that usually occurs on one side of the body.",
+      "Common in older adults or those with weakened immune systems.",
+      "Vaccination is available to reduce the risk of shingles."
+  ],
+  "Duration": "2-4 weeks, with pain persisting after the rash has cleared in some cases.",
+  "Symptoms": [
+      "Painful rash",
+      "Blisters",
+      "Itching"
+  ]
+}

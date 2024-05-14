@@ -1,0 +1,15 @@
+{
+  "Disease": "Bacterial Infections - Cellulitis",
+  "Summary": [
+      "A bacterial skin infection that occurs when bacteria enter the skin through a wound or hair follicle.",
+      "Can be caused by various bacteria, including Staphylococcus and Streptococcus.",
+      "Symptoms may include redness, swelling, and warmth in the affected area.",
+      "Treatment involves antibiotics, and severe cases may require hospitalization."
+  ],
+  "Duration": "Varies; can be resolved with proper treatment.",
+  "Symptoms": [
+      "Redness",
+      "Swelling",
+      "Warmth in the affected area"
+  ]
+}

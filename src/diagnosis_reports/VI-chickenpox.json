@@ -1,0 +1,15 @@
+{
+  "Disease": "Viral Skin Infections - Chickenpox",
+  "Summary": [
+      "A highly contagious viral infection caused by the varicella-zoster virus.",
+      "Characterized by itchy red spots that progress to blisters and eventually scab over.",
+      "Common in childhood; a vaccine is available for prevention.",
+      "Symptomatic treatment includes antihistamines and antiviral medications in severe cases."
+  ],
+  "Duration": "7-10 days, with scabs forming and falling off over the following weeks.",
+  "Symptoms": [
+      "Itchy red spots",
+      "Blisters",
+      "Scabbing"
+  ]
+}

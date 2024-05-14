@@ -1,0 +1,15 @@
+{
+  "Disease": "Fungal Infections - Athlete's Foot",
+  "Summary": [
+      "A common fungal infection affecting the feet.",
+      "Caused by fungi thriving in warm and moist environments.",
+      "Symptoms include itching, redness, and peeling skin, often between the toes.",
+      "Treatment involves antifungal medications and good foot hygiene."
+  ],
+  "Duration": "Varies; can be persistent without proper treatment.",
+  "Symptoms": [
+      "Itching",
+      "Redness",
+      "Peeling skin between toes"
+  ]
+}
